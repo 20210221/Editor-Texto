@@ -1,0 +1,12 @@
+C:\Users\Rafael De La Cruz\source\repos\Editor de texto\bin\Debug\Level_Presentation.exe.config
+C:\Users\Rafael De La Cruz\source\repos\Editor de texto\bin\Debug\Level_Presentation.exe
+C:\Users\Rafael De La Cruz\source\repos\Editor de texto\bin\Debug\Level_Presentation.pdb
+C:\Users\Rafael De La Cruz\source\repos\Editor de texto\obj\Debug\Level_Presentation.Form1.resources
+C:\Users\Rafael De La Cruz\source\repos\Editor de texto\obj\Debug\Level_Presentation.Properties.Resources.resources
+C:\Users\Rafael De La Cruz\source\repos\Editor de texto\obj\Debug\Editor_Texto.csproj.GenerateResource.cache
+C:\Users\Rafael De La Cruz\source\repos\Editor de texto\obj\Debug\Editor_Texto.csproj.CoreCompileInputs.cache
+C:\Users\Rafael De La Cruz\source\repos\Editor de texto\obj\Debug\Level_Presentation.exe
+C:\Users\Rafael De La Cruz\source\repos\Editor de texto\obj\Debug\Level_Presentation.pdb
+C:\Users\Rafael De La Cruz\source\repos\Editor de texto\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Rafael De La Cruz\source\repos\Editor de texto\obj\Debug\Editor_Texto.csprojAssemblyReference.cache
+C:\Users\Rafael De La Cruz\source\repos\Editor de texto\obj\Debug\Editor_Texto.csproj.CopyComplete
